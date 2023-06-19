@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react js,java,node-js,express,mongodb**
 
-- 💬 Ask me about **html,css,bootstrap,javascript,sql**
+- 💬 Ask me about **html,css,bootstrap,javascript,sql,Java,C,C++**
 
 - 📫 How to reach me **nikhilgb3113@gmail.com**
 
