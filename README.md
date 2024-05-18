@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilgb&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilgb" /> </p>
 
-- 🔭 I’m currently working on **Building Project's On Reactjs, MongoDB, NodeJS, Spring-Boot**
+- 🔭 I’m currently working on **Building Project On Reactjs, MongoDB, NodeJS, Spring-Boot**
 
-- 🌱 I’m currently learning **Reactjs, Full Stack Development**
+- 🧑🏻‍💻 I’m currently Working **As A Freelance Dev**
 
 - 👯 I’m looking to collaborate on **Web Development, Problem Solving**
 
 - 🤝 I’m looking for help with **Reactjs, MongoDB, NodeJS, Spring-Boot**
 
-- 💬 Ask me about **C, C++, Java, DSA, HTML, CSS, JS, Bootstrap, NodeJS, Spring-Boot, SQL**
+- 💬 Ask me about **C, C++, Java, DSA, HTML, CSS, JS, Bootstrap, NodeJS, Spring-Boot, SQL, Mongodb, Reactjs, Express**
 
 - 📫 How to reach me **nikhilgb31@gmail.com**
 
