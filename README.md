@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilgb&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilgb" /> </p>
 
-- 🔭 I’m currently working on **Building Project On Reactjs, MongoDB, NodeJS, Spring-Boot**
+- 🔭 I’m currently working on **Building Projects On Reactjs, Nextjs, MongoDB, NodeJS**
 
 - 🧑🏻‍💻 I’m currently Working **As A Freelance Dev**
 
